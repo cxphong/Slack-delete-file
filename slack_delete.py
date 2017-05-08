@@ -8,6 +8,7 @@ token = param_1= sys.argv[1]
 #Delete files older than this:
 ts_to = int(time.time()) - 30 * 24 * 60 * 60
 
+# More options: https://api.slack.com/methods/files.list
 def list_files():
   params = {
     'token': token
