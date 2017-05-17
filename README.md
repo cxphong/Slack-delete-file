@@ -1,4 +1,5 @@
-This will delete all files from 30 days before and maximum number of file is 1000.
+Delete all files from 30 days before and maximum number of file is 1000.
+Remember to re-issue token when complete
 
 # Slack-delete-file
 - Generare token https://api.slack.com/custom-integrations/legacy-tokens
