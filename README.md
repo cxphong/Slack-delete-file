@@ -4,7 +4,9 @@ Remember to re-issue token when complete
 
 # Slack-delete-file
 
-### Step 1 Generare token https://api.slack.com/custom-integrations/legacy-tokens
+### Step 1 
+
+Generare token https://api.slack.com/custom-integrations/legacy-tokens
 
 ### Step 2
 
